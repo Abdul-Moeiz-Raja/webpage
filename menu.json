@@ -1,0 +1,83 @@
+{"menu": [
+   {
+       "id": "F1",
+       "name": "Cheese filled Ravioli",
+       "type": "food",
+       "sub_type": "pasta",
+       "course": "main",
+       "description": "Delicious cheese filled pasta in tomato and basil sauce",
+       "price": 15.95
+    },
+
+    {
+       "id": "F2",
+       "name": "Fettucine Alfredo",
+       "type": "food",
+       "sub_type": "pasta",
+       "course": "main",
+       "description": "Hand-made fettucine made in classic Alfredo sauce ",
+       "price": 14.95,
+       "related_wine": "D3"
+    },
+
+    {
+       "id": "F3",
+       "name": "Veal Brasto",
+       "type": "food",
+       "sub_type": "meat",
+       "course": "main",
+       "description": "Tender boneless veal shoulder cuts marinated in red wine and slowly cooked ",
+       "price": 19.95,
+       "related_wine": "D4"
+    },
+
+    {
+       "id": "F4",
+       "name": "Chicken parmigiana",
+       "type": "food",
+       "sub_type": "meat",
+       "course": "main",
+       "description": "Layers of thin-sliced lightly pan-fried chicken breast baked with tomato sauce",
+       "price": 15.95
+    },
+
+    {
+       "id": "D1",
+       "name": "Chiatani Classico",
+       "type": "drink",
+       "sub_type": "wine",
+       "category": "red",
+       "description": "A limpet ruby red wine with floral notes dry and sapid flavor",
+       "price": 35
+    },
+    
+    {
+       "id": "D2",
+       "name": "Pinot Noir",
+       "type": "drink",
+       "sub_type": "wine",
+       "category": "red",
+       "description": "A medium body, medium dry red with Earthly flavors from France",
+       "price": 24
+    },
+
+    {
+       "id": "D3",
+       "name": "Pinot Grigio",
+       "type": "drink",
+       "sub_type": "wine",
+       "category": "white",
+       "description": "A delicate white wine from the French region of Burgundy",
+       "price": 24
+    },
+
+    {
+       "id": "D4",
+       "name": "Cabernet",
+       "type": "drink",
+       "sub_type": "wine",
+       "category": "red",
+       "description": "A bold and assertive red wine from the French region of Bordeaux",
+       "price": 15.95
+    }
+]}
